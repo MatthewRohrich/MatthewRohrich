@@ -1,6 +1,6 @@
 - Hi, I’m Matthew
 - I’m interested in many things and I will update this when I have thought about it a bit more.
-- I’m currently learning a CertIV (programming) at TAFE
+- I’m currently learning a Diploma of Advanced Programming at TAFE
 
 
 <!---

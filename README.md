@@ -1,6 +1,6 @@
 - Hi, I’m Matthew
 - I’m interested in many things and I will update this when I have thought about it a bit more.
-- I just finished a Certificate IV in programming at TAFE and a Diploma of Advanced Programming at TAFE.
+- 2022 - I just finished a Certificate IV in programming at TAFE and a Diploma of Advanced Programming at TAFE.
 - Currently enrolled in a bachelor of Information Technology
 
 

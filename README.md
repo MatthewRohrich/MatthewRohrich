@@ -1,5 +1,6 @@
 
-- 2022 - I just finished a Certificate IV in programming at TAFE and a Diploma of Advanced Programming at TAFE.
+- 2022 Certificate IV in programming at TAFE
+- 2022 Diploma of Advanced Programming at TAFE.
 - 2023 -> Currently enrolled in a Bachelor of Information Technology at Torrens University.
 
 <!---
